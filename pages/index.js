@@ -1,4 +1,3 @@
-
 export default function Home() {
   return (
     <div className="flex flex-col h-screen bg-blue-400 justify-center align-middle">
